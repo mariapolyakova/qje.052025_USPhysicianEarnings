@@ -9,8 +9,13 @@ applied to this release, authorization nos. CBDRB-FY23-0319, CBDRB-FY2023-CES005
 
 Details regarding data sources and construction can be found in the replication package on Harvard Dataverse at 10.7910/DVN/CJ1UM1, and Appendix B of the paper.
 
-File names of data products below match exhibit numbers in the published manuscript and the online appendix.
+File names of data products below match exhibit numbers in the published manuscript (
+[qje2025_manuscript.pdf](https://github.com/user-attachments/files/19801172/qje2025_manuscript.pdf))
+and the online appendix ([qje2025_online_appendix.pdf](https://github.com/user-attachments/files/19801170/qje2025_online_appendix.pdf)).
 For example, the estimates graphed in Appendix Figure E.1 are contained in docinc_figure_e1.csv. 
 The README PDF defines each variable in each CSV file distributed here.
+
+
+
 
 
