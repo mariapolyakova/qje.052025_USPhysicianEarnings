@@ -1,5 +1,5 @@
 # qje.052025_USPhysicianEarnings
-Machine-readable data files for exhibits in Gottlieb, Polyakova, Rinz, Shiplett, Udalova "The Earnings and Labor Supply of U.S. Physicians", The Quarterly Journal of Economics, Volume 140, Issue 2, May 2025, Pages 1243–1298, https://doi.org/10.1093/qje/qjaf001
+Machine-readable data files for exhibits in Gottlieb, Polyakova, Rinz, Shiplett, and Udalova "The Earnings and Labor Supply of U.S. Physicians", The Quarterly Journal of Economics, Volume 140, Issue 2, May 2025, Pages 1243–1298, https://doi.org/10.1093/qje/qjaf001
 
 This data product is intended to inform interested parties of ongoing research and to encourage discussion. Any views expressed are those of the authors and not
 those of the U.S. Census Bureau. Access to the data has been approved for this project by the U.S. Census Bureau, CMS, IRS, and SSA because it benefits Census
