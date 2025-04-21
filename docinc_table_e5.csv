@@ -1,0 +1,74 @@
+Disclosure Review Board Approval Approval nos. CBDRB-FY23-0319, CBDRB-FY2023-CES005-024, and CBDRB-FY24-0456
+sample,depvar,mean,median,stdev,spec_category_desc,year
+age4055,totw2comp,334900,339200,245000,Anesthesiology,2005
+age4055,totw2comp,229500,217900,212300,Hospital-Based,2005
+age4055,totw2comp,355400,273200,382700,Medicine Subspecialty,2005
+age4055,totw2comp,179600,169200,196400,Neurology,2005
+age4055,totw2comp,259400,246200,235600,OB-GYN,2005
+age4055,totw2comp,156400,155000,191900,Primary Care,2005
+age4055,totw2comp,337800,281500,360100,Procedural Specialties,2005
+age4055,totw2comp,451000,438600,312000,Radiology,2005
+age4055,totw2comp,402800,345400,383000,Surgery,2005
+age4055,ptotinc,452000,403700,462800,Anesthesiology,2005
+age4055,ptotinc,315600,267400,399400,Hospital-Based,2005
+age4055,ptotinc,525600,379400,794800,Medicine Subspecialty,2005
+age4055,ptotinc,277600,216400,591500,Neurology,2005
+age4055,ptotinc,379600,311700,598000,OB-GYN,2005
+age4055,ptotinc,249200,193600,5876000,Primary Care,2005
+age4055,ptotinc,562500,422000,720100,Procedural Specialties,2005
+age4055,ptotinc,609400,535000,579800,Radiology,2005
+age4055,ptotinc,579500,451600,678900,Surgery,2005
+age4055,adjgross,517100,442000,514000,Anesthesiology,2005
+age4055,adjgross,375200,302900,483500,Hospital-Based,2005
+age4055,adjgross,602200,446500,873600,Medicine Subspecialty,2005
+age4055,adjgross,351900,266300,678900,Neurology,2005
+age4055,adjgross,458500,366600,645300,OB-GYN,2005
+age4055,adjgross,302700,235800,625200,Primary Care,2005
+age4055,adjgross,647900,489300,776000,Procedural Specialties,2005
+age4055,adjgross,681900,585300,638000,Radiology,2005
+age4055,adjgross,631000,493000,703900,Surgery,2005
+age4055,top1,0.42,,0.49,Anesthesiology,2005
+age4055,top1,0.19,,0.39,Hospital-Based,2005
+age4055,top1,0.45,,0.50,Medicine Subspecialty,2005
+age4055,top1,0.16,,0.37,Neurology,2005
+age4055,top1,0.31,,0.46,OB-GYN,2005
+age4055,top1,0.11,,0.31,Primary Care,2005
+age4055,top1,0.50,,0.50,Procedural Specialties,2005
+age4055,top1,0.64,,0.48,Radiology,2005
+age4055,top1,0.50,,0.50,Surgery,2005
+age4055,totw2comp,335800,350200,214800,Anesthesiology,2017
+age4055,totw2comp,252900,254800,184200,Hospital-Based,2017
+age4055,totw2comp,361000,312000,294200,Medicine Subspecialty,2017
+age4055,totw2comp,226200,217100,164800,Neurology,2017
+age4055,totw2comp,291100,278300,217200,OB-GYN,2017
+age4055,totw2comp,201200,198000,180200,Primary Care,2017
+age4055,totw2comp,378400,327500,339000,Procedural Specialties,2017
+age4055,totw2comp,402300,400500,253000,Radiology,2017
+age4055,totw2comp,477100,419700,403200,Surgery,2017
+age4055,ptotinc,463300,407400,577300,Anesthesiology,2017
+age4055,ptotinc,362200,314100,619700,Hospital-Based,2017
+age4055,ptotinc,488500,399700,510600,Medicine Subspecialty,2017
+age4055,ptotinc,310700,262900,315600,Neurology,2017
+age4055,ptotinc,412100,333900,768500,OB-GYN,2017
+age4055,ptotinc,282300,235300,606100,Primary Care,2017
+age4055,ptotinc,635700,470100,1224000,Procedural Specialties,2017
+age4055,ptotinc,561600,481300,1199000,Radiology,2017
+age4055,ptotinc,658000,522400,683800,Surgery,2017
+age4055,adjgross,544100,453700,653300,Anesthesiology,2017
+age4055,adjgross,444900,367200,765200,Hospital-Based,2017
+age4055,adjgross,593800,491600,568500,Medicine Subspecialty,2017
+age4055,adjgross,406200,330600,467700,Neurology,2017
+age4055,adjgross,536700,413800,1075000,OB-GYN,2017
+age4055,adjgross,381900,298900,743600,Primary Care,2017
+age4055,adjgross,763200,564200,1353000,Procedural Specialties,2017
+age4055,adjgross,657300,545800,1253000,Radiology,2017
+age4055,adjgross,730400,582400,729600,Surgery,2017
+age4055,top1,0.38,,0.49,Anesthesiology,2017
+age4055,top1,0.24,,0.42,Hospital-Based,2017
+age4055,top1,0.47,,0.50,Medicine Subspecialty,2017
+age4055,top1,0.20,,0.40,Neurology,2017
+age4055,top1,0.34,,0.47,OB-GYN,2017
+age4055,top1,0.16,,0.37,Primary Care,2017
+age4055,top1,0.56,,0.50,Procedural Specialties,2017
+age4055,top1,0.55,,0.50,Radiology,2017
+age4055,top1,0.57,,0.50,Surgery,2017
