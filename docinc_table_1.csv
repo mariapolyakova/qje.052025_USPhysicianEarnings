@@ -1,0 +1,106 @@
+Disclosure Review Board Approval Approval nos. CBDRB-FY23-0319, CBDRB-FY2023-CES005-024, and CBDRB-FY24-0456
+sample,depvar,count,no_unique_npi,n_phys_year,mean,median,stdev,share_sample,subpanel
+year==2005-2017 & ages 20-70,No. Observations,,965000,11600000,,,,,1. Number of Observations
+year==2017 & ages 20-70,No. Observations,,848000,848000,,,,,1. Number of Observations
+year==2017 & ages 40-55,No. Observations,,350000,350000,,,,,1. Number of Observations
+year==2017 & ages 56-70,No. Observations,,287000,287000,,,,,1. Number of Observations
+year==2005-2017 & ages 20-70,Age,11600000,,,45.31,45,12.68,,2. Demographics
+year==2017 & ages 20-70,Age,848000,,,49.28,49,11.56,,2. Demographics
+year==2017 & ages 40-55,Age,350000,,,47.32,47,4.60,,2. Demographics
+year==2017 & ages 56-70,Age,287000,,,62.56,62,4.19,,2. Demographics
+year==2005-2017 & ages 20-70,Female,11600000,,,0.36,0,0.48,0.36,2. Demographics
+year==2017 & ages 20-70,Female,848000,,,0.38,0,0.48,0.38,2. Demographics
+year==2017 & ages 40-55,Female,350000,,,0.40,0,0.49,0.40,2. Demographics
+year==2017 & ages 56-70,Female,287000,,,0.26,0,0.44,0.26,2. Demographics
+year==2005-2017 & ages 20-70,Non-U.S.-Born,11600000,,,0.19,0,0.40,0.19,2. Demographics
+year==2017 & ages 20-70,Non-U.S.-Born,848000,,,0.22,0,0.41,0.22,2. Demographics
+year==2017 & ages 40-55,Non-U.S.-Born,350000,,,0.27,0,0.44,0.27,2. Demographics
+year==2017 & ages 56-70,Non-U.S.-Born,287000,,,0.12,0,0.33,0.12,2. Demographics
+year==2005-2017 & ages 20-70,Married,11100000,,,0.77,1,0.42,0.77,2. Demographics
+year==2017 & ages 20-70,Married,817000,,,0.80,1,0.40,0.80,2. Demographics
+year==2017 & ages 40-55,Married,336000,,,0.83,1,0.37,0.83,2. Demographics
+year==2017 & ages 56-70,Married,274000,,,0.82,1,0.38,0.82,2. Demographics
+year==2005-2017 & ages 20-70,Share Observed in ACS,11600000,,,0.20,0,0.40,0.20,2. Demographics
+year==2017 & ages 20-70,Share Observed in ACS,848000,,,0.20,0,0.40,0.20,2. Demographics
+year==2017 & ages 40-55,Share Observed in ACS,350000,,,0.20,0,0.40,0.20,2. Demographics
+year==2017 & ages 56-70,Share Observed in ACS,287000,,,0.22,0,0.41,0.22,2. Demographics
+year==2005-2017 & ages 20-70,Individual Total Wage (2017 \\$),11600000,,,201600,155700,945300,,3. Income
+year==2017 & ages 20-70,Individual Total Wage (2017 \\$),848000,,,243400,209400,283000,,3. Income
+year==2017 & ages 40-55,Individual Total Wage (2017 \\$),350000,,,286200,247700,260300,,3. Income
+year==2017 & ages 56-70,Individual Total Wage (2017 \\$),287000,,,224900,188700,359400,,3. Income
+year==2005-2017 & ages 20-70,Individual Total Income (2017 \\$),11600000,,,290800,210700,3589000,,3. Income
+year==2017 & ages 20-70,Individual Total Income (2017 \\$),848000,,,350000,265000,1192000,,3. Income
+year==2017 & ages 40-55,Individual Total Income (2017 \\$),350000,,,404500,308600,711400,,3. Income
+year==2017 & ages 56-70,Individual Total Income (2017 \\$),287000,,,367500,267500,1578000,,3. Income
+year==2005-2017 & ages 20-70,AGI (2017 \\$),11100000,,,359200,264700,859200,,3. Income
+year==2017 & ages 20-70,AGI (2017 \\$),817000,,,429500,325500,1266000,,3. Income
+year==2017 & ages 40-55,AGI (2017 \\$),336000,,,502400,384300,827500,,3. Income
+year==2017 & ages 56-70,AGI (2017 \\$),274000,,,435100,314800,1652000,,3. Income
+year==2005-2017 & ages 20-70,Business Income $>$ \USD 25K,11600000,,,0.29,0,0.46,0.29,3. Income
+year==2017 & ages 20-70,Business Income $>$ \USD 25K,848000,,,0.32,0,0.46,0.32,3. Income
+year==2017 & ages 40-55,Business Income $>$ \USD 25K,350000,,,0.35,0,0.48,0.35,3. Income
+year==2017 & ages 56-70,Business Income $>$ \USD 25K,287000,,,0.38,0,0.49,0.38,3. Income
+year==2005-2017 & ages 20-70,Households in Top 1\% of AGI,11600000,,,0.22,0,0.42,0.22,3. Income
+year==2017 & ages 20-70,Households in Top 1\% of AGI,848000,,,0.24,0,0.43,0.24,3. Income
+year==2017 & ages 40-55,Households in Top 1\% of AGI,350000,,,0.31,0,0.46,0.31,3. Income
+year==2017 & ages 56-70,Households in Top 1\% of AGI,287000,,,0.24,0,0.43,0.24,3. Income
+year==2005-2017 & ages 20-70,Firm Size (Number of Physicians),11000000,,,1101,52,3677,,4. Career Choices and Characteristics
+year==2017 & ages 20-70,Firm Size (Number of Physicians),825000,,,1472,84.61,4855,,4. Career Choices and Characteristics
+year==2017 & ages 40-55,Firm Size (Number of Physicians),344000,,,1536,75,5025,,4. Career Choices and Characteristics
+year==2017 & ages 56-70,Firm Size (Number of Physicians),271000,,,1480,20,5312,,4. Career Choices and Characteristics
+year==2005-2017 & ages 20-70,Weekly Working Hours (ACS),154000,,,50.50,50,16.39,,4. Career Choices and Characteristics
+year==2017 & ages 20-70,Weekly Working Hours (ACS),13000,,,49.53,50,15.17,,4. Career Choices and Characteristics
+year==2017 & ages 40-55,Weekly Working Hours (ACS),5400,,,49.55,50,14.47,,4. Career Choices and Characteristics
+year==2017 & ages 56-70,Weekly Working Hours (ACS),4500,,,47.58,50,15.37,,4. Career Choices and Characteristics
+year==2005-2017 & ages 20-70,Retired (Based on 1099-SSA),11600000,,,0.05,0,0.22,0.05,4. Career Choices and Characteristics
+year==2017 & ages 20-70,Retired (Based on 1099-SSA),848000,,,0.07,0,0.25,0.07,4. Career Choices and Characteristics
+year==2017 & ages 40-55,Retired (Based on 1099-SSA),350000,,,0.01,0,0.09,0.01,4. Career Choices and Characteristics
+year==2017 & ages 56-70,Retired (Based on 1099-SSA),287000,,,0.19,0,0.40,0.19,4. Career Choices and Characteristics
+year==2005-2017 & ages 20-70,Name of Medical School Observed,11600000,,,0.52,1,0.50,0.52,4. Career Choices and Characteristics
+year==2017 & ages 20-70,Name of Medical School Observed,848000,,,0.53,1,0.50,0.53,4. Career Choices and Characteristics
+year==2017 & ages 40-55,Name of Medical School Observed,350000,,,0.56,1,0.50,0.56,4. Career Choices and Characteristics
+year==2017 & ages 56-70,Name of Medical School Observed,287000,,,0.55,1,0.50,0.55,4. Career Choices and Characteristics
+year==2005-2017 & ages 20-70,Graduated from Ranked Medical School,6057000,,,0.48,0,0.50,0.48,4. Career Choices and Characteristics
+year==2017 & ages 20-70,Graduated from Ranked Medical School,448000,,,0.48,0,0.50,0.48,4. Career Choices and Characteristics
+year==2017 & ages 40-55,Graduated from Ranked Medical School,196000,,,0.48,0,0.50,0.48,4. Career Choices and Characteristics
+year==2017 & ages 56-70,Graduated from Ranked Medical School,158000,,,0.50,0,0.50,0.50,4. Career Choices and Characteristics
+year==2005-2017 & ages 20-70,Graduated from Top-5 Medical School,6057000,,,0.06,0,0.23,0.06,4. Career Choices and Characteristics
+year==2017 & ages 20-70,Graduated from Top-5 Medical School,448000,,,0.06,0,0.23,0.06,4. Career Choices and Characteristics
+year==2017 & ages 40-55,Graduated from Top-5 Medical School,196000,,,0.06,0,0.23,0.06,4. Career Choices and Characteristics
+year==2017 & ages 56-70,Graduated from Top-5 Medical School,158000,,,0.06,0,0.23,0.06,4. Career Choices and Characteristics
+year==2005-2017 & ages 20-70,Primary Care,,,,,,,0.43,5. Share in Specialty Category
+year==2017 & ages 20-70,Primary Care,,,,,,,0.44,5. Share in Specialty Category
+year==2017 & ages 40-55,Primary Care,,,,,,,0.42,5. Share in Specialty Category
+year==2017 & ages 56-70,Primary Care,,,,,,,0.43,5. Share in Specialty Category
+year==2005-2017 & ages 20-70,Medicine Subspecialty,,,,,,,0.12,5. Share in Specialty Category
+year==2017 & ages 20-70,Medicine Subspecialty,,,,,,,0.12,5. Share in Specialty Category
+year==2017 & ages 40-55,Medicine Subspecialty,,,,,,,0.13,5. Share in Specialty Category
+year==2017 & ages 56-70,Medicine Subspecialty,,,,,,,0.13,5. Share in Specialty Category
+year==2005-2017 & ages 20-70,Hospital-Based,,,,,,,0.11,5. Share in Specialty Category
+year==2017 & ages 20-70,Hospital-Based,,,,,,,0.11,5. Share in Specialty Category
+year==2017 & ages 40-55,Hospital-Based,,,,,,,0.11,5. Share in Specialty Category
+year==2017 & ages 56-70,Hospital-Based,,,,,,,0.09,5. Share in Specialty Category
+year==2005-2017 & ages 20-70,Surgery,,,,,,,0.09,5. Share in Specialty Category
+year==2017 & ages 20-70,Surgery,,,,,,,0.09,5. Share in Specialty Category
+year==2017 & ages 40-55,Surgery,,,,,,,0.09,5. Share in Specialty Category
+year==2017 & ages 56-70,Surgery,,,,,,,0.09,5. Share in Specialty Category
+year==2005-2017 & ages 20-70,Procedural Specialties,,,,,,,0.06,5. Share in Specialty Category
+year==2017 & ages 20-70,Procedural Specialties,,,,,,,0.06,5. Share in Specialty Category
+year==2017 & ages 40-55,Procedural Specialties,,,,,,,0.06,5. Share in Specialty Category
+year==2017 & ages 56-70,Procedural Specialties,,,,,,,0.06,5. Share in Specialty Category
+year==2005-2017 & ages 20-70,Anesthesiology,,,,,,,0.06,5. Share in Specialty Category
+year==2017 & ages 20-70,Anesthesiology,,,,,,,0.06,5. Share in Specialty Category
+year==2017 & ages 40-55,Anesthesiology,,,,,,,0.06,5. Share in Specialty Category
+year==2017 & ages 56-70,Anesthesiology,,,,,,,0.06,5. Share in Specialty Category
+year==2005-2017 & ages 20-70,Radiology,,,,,,,0.05,5. Share in Specialty Category
+year==2017 & ages 20-70,Radiology,,,,,,,0.05,5. Share in Specialty Category
+year==2017 & ages 40-55,Radiology,,,,,,,0.05,5. Share in Specialty Category
+year==2017 & ages 56-70,Radiology,,,,,,,0.05,5. Share in Specialty Category
+year==2005-2017 & ages 20-70,OB-GYN,,,,,,,0.05,5. Share in Specialty Category
+year==2017 & ages 20-70,OB-GYN,,,,,,,0.05,5. Share in Specialty Category
+year==2017 & ages 40-55,OB-GYN,,,,,,,0.05,5. Share in Specialty Category
+year==2017 & ages 56-70,OB-GYN,,,,,,,0.05,5. Share in Specialty Category
+year==2005-2017 & ages 20-70,Neurology,,,,,,,0.03,5. Share in Specialty Category
+year==2017 & ages 20-70,Neurology,,,,,,,0.03,5. Share in Specialty Category
+year==2017 & ages 40-55,Neurology,,,,,,,0.03,5. Share in Specialty Category
+year==2017 & ages 56-70,Neurology,,,,,,,0.03,5. Share in Specialty Category

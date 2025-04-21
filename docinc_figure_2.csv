@@ -1,0 +1,160 @@
+Disclosure Review Board Approval Approval nos. CBDRB-FY23-0319, CBDRB-FY2023-CES005-024, and CBDRB-FY24-0456
+specialty_markers,sample,ptotinc,wkh,resdur_allyrs,n_pub_sn_match,pred_share_us_sn,pred_ptotinc,freq
+Anesthesiology,NRMP; age4055,469.50,52.64,4.70,3.50,0.86,538.30,289000
+Dermatology,NRMP; age4055,655.20,44.33,4.71,11.70,0.87,829.50,58000
+Emergency Medicine,NRMP; age4055,345.20,45.14,3.86,3.30,0.96,602.10,260000
+Family Medicine,NRMP; age4055,229.80,48.27,3.76,2.60,0.72,457.50,693000
+Internal Medicine,NRMP; age4055,376.40,52.80,4.47,4.40,0.69,469.30,1208000
+Neurological Surgery,NRMP; age4055,920.50,63.37,6.66,13.40,0.81,638.10,31500
+Neurology,NRMP; age4055,292.50,53.98,5.97,5.10,0.53,205.00,11000
+ObGyn,NRMP; age4055,390.10,55.57,4.76,4.20,0.85,415.40,225000
+Orthopaedic Surgery,NRMP; age4055,788.60,57.71,5.85,8.20,0.90,667.10,138000
+Otolaryngology,NRMP; age4055,553.80,54.08,5.76,8.40,0.91,488.20,53500
+Pathology,NRMP; age4055,382.00,48.69,5.50,5.90,0.57,413.90,93500
+Pediatrics,NRMP; age4055,272.40,46.96,4.64,3.40,0.80,420.50,394000
+Physical Medicine and Rehabilitation,NRMP; age4055,306.90,47.26,4.90,3.90,0.56,423.00,64500
+Plastic Surgery,NRMP; age4055,545.60,54.26,7.02,11.90,0.71,339.70,23000
+Psychiatry,NRMP; age4055,255.10,46.86,4.89,3.70,0.65,377.90,317000
+Radiation Oncology,NRMP; age4055,709.30,50.68,5.17,12.70,0.95,752.20,26500
+Radiology,NRMP; age4055,545.40,50.18,5.78,4.90,0.75,528.00,206000
+Surgery,NRMP; age4055,527.30,57.01,5.80,4.70,0.73,420.70,344000
+Anesthesiology,NRMP; ageall,352.00,52.20,4.70,3.50,0.86,394.00,694000
+Dermatology,NRMP; ageall,456.90,43.91,4.71,11.70,0.87,568.10,167000
+Emergency Medicine,NRMP; ageall,252.90,45.04,3.86,3.30,0.95,413.70,724000
+Family Medicine,NRMP; ageall,192.80,47.36,3.76,2.60,0.71,340.90,1796000
+Internal Medicine,NRMP; ageall,290.90,52.53,4.47,4.40,0.69,346.70,3135000
+Neurological Surgery,NRMP; ageall,623.50,63.55,6.66,13.40,0.82,434.50,80500
+Neurology,NRMP; ageall,228.20,54.11,5.97,5.10,0.53,166.00,30000
+ObGyn,NRMP; ageall,291.20,54.40,4.76,4.20,0.85,311.00,587000
+Orthopaedic Surgery,NRMP; ageall,534.60,56.74,5.85,8.20,0.90,458.90,369000
+Otolaryngology,NRMP; ageall,386.70,53.30,5.76,8.40,0.91,346.10,142000
+Pathology,NRMP; ageall,314.90,48.33,5.50,5.90,0.57,334.10,231000
+Pediatrics,NRMP; ageall,209.00,47.90,4.64,3.40,0.81,291.40,1061000
+Physical Medicine and Rehabilitation,NRMP; ageall,221.20,46.10,4.90,3.90,0.56,300.90,158000
+Plastic Surgery,NRMP; ageall,405.80,55.69,7.02,11.90,0.72,257.60,57000
+Psychiatry,NRMP; ageall,215.00,46.41,4.89,3.70,0.65,293.10,838000
+Radiation Oncology,NRMP; ageall,508.90,51.07,5.17,12.70,0.95,528.10,66000
+Radiology,NRMP; ageall,405.80,49.79,5.78,4.90,0.75,393.60,525000
+Surgery,NRMP; ageall,375.70,55.72,5.80,4.70,0.73,312.40,924000
+Clinical Cardiac Electrophysiology,specialty_category; age4055,596.90,59.17,5.69,,,,14310
+Addiction Medicine,specialty_category; age4055,292.10,48.02,5.38,,,,1521
+Advanced Heart Failure and Transplant Cardiology,specialty_category; age4055,462.80,56.36,5.13,,,,1502
+Allergy/ Immunology,specialty_category; age4055,410.80,45.01,5.30,,,,18380
+Anesthesiology,specialty_category; age4055,458.90,52.73,4.69,,,,272700
+Back Office,specialty_category; age4055,247.30,41.45,5.50,,,,803
+Cardiac Surgery,specialty_category; age4055,607.30,66.20,7.17,,,,27070
+Cardiovascular Disease (Cardiology),specialty_category; age4055,566.60,58.85,5.24,,,,110400
+Colorectal Surgery (Proctology),specialty_category; age4055,458.00,62.73,6.52,,,,8176
+Critical Care (Intensivists),specialty_category; age4055,378.70,57.18,4.84,,,,16480
+Dermatology,specialty_category; age4055,655.20,44.33,4.71,,,,57810
+Radiology,specialty_category; age4055,546.70,50.08,5.77,,,,189600
+Electrodiagnostic Medicine,specialty_category; age4055,289.30,,,,,,59.16999817
+Emergency Medicine,specialty_category; age4055,343.00,44.38,3.82,,,,243700
+Endocrinology,specialty_category; age4055,279.50,49.05,5.22,,,,32850
+Family Practice,specialty_category; age4055,230.10,48.55,3.73,,,,627000
+Gastroenterology,specialty_category; age4055,594.70,55.06,5.42,,,,77850
+General Practice,specialty_category; age4055,224.90,44.58,4.81,,,,35590
+General Surgery,specialty_category; age4055,457.40,61.21,5.95,,,,146300
+Genetics,specialty_category; age4055,236.30,51.73,5.56,,,,4399
+Geriatric Medicine,specialty_category; age4055,258.60,49.24,4.70,,,,21160
+Gynecological Oncology,specialty_category; age4055,571.60,60.76,6.55,,,,6518
+Hand Surgery,specialty_category; age4055,650.40,54.22,6.54,,,,2927
+Hematology,specialty_category; age4055,371.10,57.44,5.24,,,,3801
+Hematology-Oncology,specialty_category; age4055,606.40,55.15,5.34,,,,52790
+Hospice and Palliative Care,specialty_category; age4055,258.50,50.26,4.35,,,,4702
+Hospitalist,specialty_category; age4055,285.70,53.82,3.58,,,,49800
+Hypertension Specialist,specialty_category; age4055,346.40,50.00,,,,,102.5
+Infectious Disease,specialty_category; age4055,292.50,52.70,5.41,,,,41940
+Internal Medicine,specialty_category; age4055,278.40,50.00,3.99,,,,577000
+Interventional Cardiology,specialty_category; age4055,682.20,60.81,5.36,,,,25490
+Interventional Pain Management,specialty_category; age4055,702.60,49.68,5.18,,,,11430
+Interventional Radiology,specialty_category; age4055,594.20,51.82,5.83,,,,12340
+Maxillofacial Surgery,specialty_category; age4055,559.80,48.17,4.86,,,,3865
+Medical Oncology,specialty_category; age4055,521.70,55.48,5.49,,,,18930
+Nephrology,specialty_category; age4055,434.40,56.27,5.04,,,,50770
+Neurology,specialty_category; age4055,272.40,54.58,6.15,,,,7703
+Neuropsychiatry,specialty_category; age4055,286.40,49.86,5.30,,,,119800
+Neurosurgery,specialty_category; age4055,920.50,63.37,6.66,,,,31330
+Nuclear Medicine,specialty_category; age4055,337.20,48.10,5.23,,,,4057
+Obstetrics & Gynecology,specialty_category; age4055,384.70,55.44,4.70,,,,218900
+Ophthalmology,specialty_category; age4055,597.00,47.76,5.27,,,,97790
+Orthopedic Surgery,specialty_category; age4055,788.60,57.71,5.85,,,,138200
+Osteopathic Manipulative Medicine,specialty_category; age4055,248.90,43.72,4.41,,,,4966
+Otolaryngology,specialty_category; age4055,553.80,54.08,5.76,,,,53390
+Pain Management,specialty_category; age4055,519.30,51.03,5.01,,,,4528
+Pathology,specialty_category; age4055,382.00,48.69,5.50,,,,93700
+Pediatric,specialty_category; age4055,272.40,46.96,4.64,,,,394300
+Peripheral Vascular Disease,specialty_category; age4055,543.00,63.49,6.48,,,,19380
+Phlebology,specialty_category; age4055,420.10,51.74,4.80,,,,701.2000122
+Physical Medicine and Rehabilitation,specialty_category; age4055,306.90,47.26,4.90,,,,64730
+Plastic and Reconstructive Surgery,specialty_category; age4055,545.60,54.26,7.02,,,,23190
+Preventive Medicine,specialty_category; age4055,223.90,45.21,4.69,,,,27130
+Psychiatry,specialty_category; age4055,235.50,44.95,4.55,,,,196300
+Pulmonary Disease,specialty_category; age4055,398.80,57.52,5.13,,,,58400
+Radiation Oncology,specialty_category; age4055,709.30,50.68,5.17,,,,26400
+Rheumatology,specialty_category; age4055,339.90,48.53,5.14,,,,26030
+Sleep Medicine,specialty_category; age4055,340.60,47.98,4.80,,,,3245
+Sports Medicine,specialty_category; age4055,400.00,42.71,4.69,,,,3210
+Surgical Oncology,specialty_category; age4055,440.60,59.52,6.20,,,,6491
+Urology,specialty_category; age4055,563.90,58.11,5.85,,,,51990
+Clinical Cardiac Electrophysiology,specialty_category; ageall,452.80,59.70,5.69,,,,29670
+Addiction Medicine,specialty_category; ageall,251.00,42.26,5.38,,,,3826
+Advanced Heart Failure and Transplant Cardiology,specialty_category; ageall,298.00,59.32,5.13,,,,4592
+Allergy/ Immunology,specialty_category; ageall,329.40,44.93,5.30,,,,50790
+Anesthesiology,specialty_category; ageall,345.80,52.23,4.69,,,,660100
+Back Office,specialty_category; ageall,245.00,37.86,5.50,,,,2591
+Cardiac Surgery,specialty_category; ageall,508.70,65.09,7.17,,,,58950
+Cardiovascular Disease (Cardiology),specialty_category; ageall,450.80,57.09,5.24,,,,273800
+Colorectal Surgery (Proctology),specialty_category; ageall,357.60,61.69,6.52,,,,19610
+Critical Care (Intensivists),specialty_category; ageall,291.90,57.36,4.84,,,,39400
+Dermatology,specialty_category; ageall,456.90,43.91,4.71,,,,167300
+Radiology,specialty_category; ageall,407.00,49.55,5.77,,,,485100
+Electrodiagnostic Medicine,specialty_category; ageall,268.90,50.00,,,,,152.1999969
+Emergency Medicine,specialty_category; ageall,250.60,44.29,3.82,,,,684500
+Endocrinology,specialty_category; ageall,237.40,49.93,5.22,,,,89530
+Family Practice,specialty_category; ageall,193.70,47.78,3.73,,,,1597000
+Gastroenterology,specialty_category; ageall,459.80,54.82,5.42,,,,191300
+General Practice,specialty_category; ageall,172.80,43.58,4.81,,,,123800
+General Surgery,specialty_category; ageall,304.90,59.37,5.95,,,,409900
+Genetics,specialty_category; ageall,219.50,50.32,5.56,,,,10670
+Geriatric Medicine,specialty_category; ageall,227.90,49.97,4.70,,,,49390
+Gynecological Oncology,specialty_category; ageall,416.10,61.13,6.55,,,,16080
+Hand Surgery,specialty_category; ageall,478.90,57.15,6.54,,,,7432
+Hematology,specialty_category; ageall,341.40,55.83,5.24,,,,10130
+Hematology-Oncology,specialty_category; ageall,456.60,54.26,5.34,,,,134400
+Hospice and Palliative Care,specialty_category; ageall,186.00,48.62,4.35,,,,13700
+Hospitalist,specialty_category; ageall,188.50,53.72,3.58,,,,150900
+Hypertension Specialist,specialty_category; ageall,312.30,45.42,,,,,237.5
+Infectious Disease,specialty_category; ageall,247.10,53.05,5.41,,,,99220
+Internal Medicine,specialty_category; ageall,215.70,50.12,3.99,,,,1523000
+Interventional Cardiology,specialty_category; ageall,528.20,60.42,5.36,,,,56370
+Interventional Pain Management,specialty_category; ageall,521.20,52.51,5.18,,,,23670
+Interventional Radiology,specialty_category; ageall,415.80,54.07,5.83,,,,29470
+Maxillofacial Surgery,specialty_category; ageall,383.80,47.81,4.86,,,,11340
+Medical Oncology,specialty_category; ageall,466.50,54.82,5.49,,,,44840
+Nephrology,specialty_category; ageall,357.40,55.95,5.04,,,,127800
+Neurology,specialty_category; ageall,209.50,55.41,6.15,,,,22120
+Neuropsychiatry,specialty_category; ageall,231.30,49.90,5.30,,,,310200
+Neurosurgery,specialty_category; ageall,623.50,63.55,6.66,,,,80470
+Nuclear Medicine,specialty_category; ageall,317.10,48.49,5.23,,,,10030
+Obstetrics & Gynecology,specialty_category; ageall,287.70,54.21,4.70,,,,570800
+Ophthalmology,specialty_category; ageall,438.50,47.22,5.27,,,,259900
+Orthopedic Surgery,specialty_category; ageall,534.60,56.74,5.85,,,,369300
+Osteopathic Manipulative Medicine,specialty_category; ageall,217.60,43.36,4.41,,,,11830
+Otolaryngology,specialty_category; ageall,386.70,53.30,5.76,,,,142100
+Pain Management,specialty_category; ageall,357.50,49.15,5.01,,,,10700
+Pathology,specialty_category; ageall,314.90,48.33,5.50,,,,231100
+Pediatric,specialty_category; ageall,209.00,47.90,4.64,,,,1061000
+Peripheral Vascular Disease,specialty_category; ageall,406.00,63.23,6.48,,,,47790
+Phlebology,specialty_category; ageall,318.10,48.87,4.80,,,,1358
+Physical Medicine and Rehabilitation,specialty_category; ageall,221.20,46.10,4.90,,,,158400
+Plastic and Reconstructive Surgery,specialty_category; ageall,405.80,55.69,7.02,,,,56990
+Preventive Medicine,specialty_category; ageall,205.00,43.38,4.69,,,,63700
+Psychiatry,specialty_category; ageall,205.00,44.38,4.55,,,,524400
+Pulmonary Disease,specialty_category; ageall,319.80,56.65,5.13,,,,145800
+Radiation Oncology,specialty_category; ageall,508.90,51.07,5.17,,,,66100
+Rheumatology,specialty_category; ageall,280.60,49.54,5.14,,,,71730
+Sleep Medicine,specialty_category; ageall,281.50,48.91,4.80,,,,7668
+Sports Medicine,specialty_category; ageall,298.10,46.62,4.69,,,,8131
+Surgical Oncology,specialty_category; ageall,326.60,62.09,6.20,,,,15340
+Urology,specialty_category; ageall,411.90,56.59,5.85,,,,141700

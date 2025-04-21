@@ -1,0 +1,11 @@
+Disclosure Review Board Approval Approval nos. CBDRB-FY23-0319, CBDRB-FY2023-CES005-024, and CBDRB-FY24-0456
+school_group,spec_category_code,spec_category_desc,top5_school_share,mean_hourly_income
+ranked_top5,1.00,Primary Care,0.03,97.72
+ranked_top5,2.00,Medicine Subspecialty,0.05,167.90
+ranked_top5,3.00,Ob/Gyn,0.02,132.70
+ranked_top5,4.00,Surgery,0.05,191.60
+ranked_top5,5.00,Procedural Specialties,0.07,220.60
+ranked_top5,6.00,Hospital-Based,0.03,135.90
+ranked_top5,7.00,Anesthesiology,0.03,170.80
+ranked_top5,8.00,Radiology,0.06,226.30
+ranked_top5,9.00,Neurology,0.04,107.50

@@ -1,0 +1,63 @@
+specialty_category,medicare_specialty_code,medicare_specialty_description
+1,1,General Practice
+1,8,Family Practice
+1,11,Internal Medicine
+1,17,Hospice and Palliative Care
+1,23,Sports Medicine
+1,26,Psychiatry
+1,37,Pediatric Medicine
+1,38,Geriatric Medicine
+1,72,Pain Management
+1,79,Addiction Medicine
+1,84,Preventive Medicine
+1,C0,Sleep Medicine
+2,3,Allergy/Immunology
+2,6,Cardiovascular Disease (Cardiology)
+2,10,Gastroenterology
+2,21,Clinical Cardiac Electrophysiology
+2,29,Pulmonary Disease
+2,39,Nephrology
+2,44,Infectious Disease
+2,46,Endocrinology
+2,66,Rheumatology
+2,81,Critical Care (Intensivists)
+2,82,Hematology
+2,83,Hematology-Oncology
+2,90,Medical Oncology
+2,91,Surgical Oncology
+2,C3,Interventional Cardiology
+2,C7,Advanced Heart Failure and Transplant Cardiology
+2,Undefined,Genetics
+2,Undefined,Hypertension Specialist
+2,Undefined,Phlebology
+3,16,Obstetrics & Gynecology
+3,98,Gynecological Oncology
+4,2,General Surgery
+4,14,Neurosurgery
+4,20,Orthopedic Surgery
+4,24,Plastic and Reconstructive Surgery
+4,28,Colorectal Surgery (Proctology)
+4,33,Thoracic Surgery
+4,40,Hand Surgery
+4,76,Peripheral Vascular Disease
+4,78,Cardiac Surgery
+4,85,Maxillofacial Surgery
+5,4,Otolaryngology
+5,7,Dermatology
+5,18,Ophthalmology
+5,34,Urology
+6,22,Pathology
+6,25,Physical Medicine and Rehabilitation
+6,93,Emergency Medicine
+6,C6,Hospitalist
+6,Undefined,"Pharmacology, Back Office"
+7,5,Anesthesiology
+7,9,Interventional Pain Management
+8,30,Diagnostic Radiology
+8,36,Nuclear Medicine
+8,92,Radiation Oncology
+8,94,Interventional Radiology
+9,12,Osteopathic Manipulative Medicine
+9,13,Neurology
+9,86,Neuropsychiatry
+9,Undefined,Electrodiagnostic Medicine
