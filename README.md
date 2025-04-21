@@ -13,7 +13,7 @@ File names of data products below match exhibit numbers in the published manuscr
 [qje2025_manuscript.pdf](https://github.com/user-attachments/files/19801172/qje2025_manuscript.pdf))
 and the online appendix ([qje2025_online_appendix.pdf](https://github.com/user-attachments/files/19801170/qje2025_online_appendix.pdf)).
 For example, the estimates graphed in Appendix Figure E.1 are contained in docinc_figure_e1.csv. 
-The [readme](https://github.com/mariapolyakova/qje.052025_USPhysicianEarnings/blob/d5861d0496a7f0c3d77c35839f6d92108f7600fb/readme.pdf) PDF 
+The readme PDF ([readme.pdf](https://github.com/mariapolyakova/qje.052025_USPhysicianEarnings/blob/d5861d0496a7f0c3d77c35839f6d92108f7600fb/readme.pdf))
 defines each variable in each CSV file distributed here.
 
 
